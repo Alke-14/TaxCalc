@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="android:colorBackground">@color/BG</item>
+        <item name="android:textColor">@color/Text</item>
+        <item name="android:textColorHint">@color/Hint</item>
+        <item name="colorPrimary">@color/Text</item>
+        <item name="colorSecondary">@color/Input</item>
+
+        <item name="android:progress">@color/white</item>
+        <item name="colorOnSurface">@color/Input</item>
+        <item name="colorAccent">@color/Input</item>
+
+
+    </style>
+
+</resources>
